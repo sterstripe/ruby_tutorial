@@ -1,1 +1,1 @@
-//This is a README about the ruby tutorial
+This is a README about the ruby tutorial
