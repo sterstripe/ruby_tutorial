@@ -18,3 +18,21 @@ new_hash_of_dogs = {
   "Fido" => 3,
   "Rufus" => 5
 }
+
+#Loops
+
+##while loop
+incrementing_integer = 0
+
+while incrementing_integer < 5
+  incrementing_integer += 1
+  puts incrementing_integer
+end
+
+##each loop
+
+chairs = ["recliner", "office", "stool"]
+
+chairs.each do |name|
+  puts "#{name} is a type of chair"
+end
